@@ -1,0 +1,24 @@
+/*-----content-----*/
+
+p#description {
+	width: 491px;
+	font-size: 18px;
+	font-family: arial;
+	margin-left: 50px;
+	text-align: justify;
+	line-height: 1.2em;
+}
+
+p#contact {
+	color: #5F5959;
+	font-size: 18px;
+	float: right;
+	width: 222px;
+	height: 91px;
+	position: relative;
+	bottom: 90px;
+	text-align: right;
+	font-family: arial;
+	margin-right: 50px;
+	line-height: 1.2em;
+}

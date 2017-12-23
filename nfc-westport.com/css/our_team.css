@@ -1,0 +1,27 @@
+/*------styles-------*/
+
+div#container {
+	width: 940px;
+	height: 675px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	background-color: white;
+}
+
+h2 {	
+	font-family: arial;
+	font-size: 30px;
+}
+
+h2#one{
+	position: relative;
+	top: 100px;
+	left: 210px;
+}
+
+h2#two {
+	position: relative;
+	top: 120px;
+	left: 250px;
+}

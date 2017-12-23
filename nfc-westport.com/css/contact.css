@@ -1,0 +1,38 @@
+/*------body----------*/
+
+div#container {
+	height: 780px;
+}
+
+/*------content------*/
+
+p#contact {
+	color: #5F5959;
+	font-size: 18px;
+	width: 222px;
+	height: 91px;
+	position: relative;
+	left: 50px;
+	text-align: left;
+	font-family: arial;
+	margin-right: 50px;
+	line-height: 1.2em;
+}
+
+img#office 
+{
+	position: relative;
+	left: 50px;
+	top: 45px;
+}
+
+/*------google maps-----*/
+
+#map_canvas {
+    width: 484px;
+    height: 434px;
+    float: right;
+    position: relative;
+    right: 50px;
+    bottom: 90px;
+  }
